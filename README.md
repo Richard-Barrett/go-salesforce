@@ -1,2 +1,2 @@
 # go-salesforce
-Go Client for Salesforce REST API 
+Go Client library for Salesforce
